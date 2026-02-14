@@ -73,7 +73,7 @@ The `Session` class is used to handle each account session, with most methods lo
 Make sure to install [node.js](https://nodejs.org/en). Clone the repository, install dependencies, and launch:
 
 ```bash
-git clone https://github.com/9bn1dyp/google-activity-simulator
+git clone https://github.com/rustpill/google-activity-simulator
 cd google-activity-simulator
 npm install
 npx playwright install chromium
